@@ -5,14 +5,16 @@
 请到yeoman官网　http://yeoman.io/generators/　搜索寻找项目生成器（基于react和webpack构建的项目）<br />
 选择　[ react-webpack ]　项目，打开链接如下：<br />
 https://github.com/react-webpack-generators/generator-react-webpack#readme <br />
-安装generator：npm install -g generator-react-webpack <br />
+安装generator：npm install -g generator-react-webpack <br /><br />
 
-git clone　https://github.com/losthj/gallery-by-react.git < br />
-npm install < br />
-npm run start < br />
-具体npm run　的操作可参考项目的中package.json文件< br />< br />
+git clone　https://github.com/losthj/gallery-by-react.git <br /><br />
+npm install <br />
+npm run start <br />
+具体npm run　的操作可参考项目的中package.json文件
+<br />
+<br />
   
-github web服务在线地址
+github web服务在线地址<br />
 https://losthj.github.io/gallery-by-react/
   ![](https://losthj.github.io/gallery-by-react/blob/master/src/gitdemo.gif "github web server")
  
